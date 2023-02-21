@@ -14,7 +14,7 @@ enableRobotsTXT = true
 DefaultContentLanguage = "en"
 
 # Enable / Disable Google Analytics statistics for your site
-googleAnalytics = ""
+googleAnalytics = "G-EMH30PDBJT"
 
 # Enable / Disable comments on the articles via Disqus.
 disqusShortname = ""
@@ -80,7 +80,7 @@ disqusShortname = ""
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Let's explore together how Artificial Inetlligence and Machine Learning can transform real estate and finance, creating new opportunities and challenges."
+    subtitle = "Artificial Intelligence Advocate"
 
     # if you want to use libravatar or gravatar for the header image
     avatarEmail = ""
@@ -103,7 +103,7 @@ disqusShortname = ""
 
   # Content configuration
     # Enable an optional pinned page to display at the top of the index
-    pinnedPost = "/code/installing-bilberry-theme/"
+    pinnedPost = "/article/pinned/"
     # Set to true to pin only to the first page, false to all pages
     pinOnlyToFirstPage = true
 

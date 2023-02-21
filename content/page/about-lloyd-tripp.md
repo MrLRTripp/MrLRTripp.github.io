@@ -1,9 +1,9 @@
 ---
 title: "About Lloyd Tripp"
-date: 2023-02-13
+date: 2023-02-14
 excludeFromTopNav: false
 showDate: false
-weight: 1  # Determines order. Lower value first
+#weight: 1  # Determines order. Lower value first
 ---
 # Lloyd Tripp  
 lrtripp@outlook.com  
