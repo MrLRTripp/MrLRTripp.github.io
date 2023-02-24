@@ -7,8 +7,8 @@ categories: [Real_Estate]
 tags: [ChatGPT]
 toc: false
 featuredImage: "/images/self_assessment.png"
-# Add og:image by adding image front matter variable
-image: "/images/self_assessment.png"
+# Add og:image by adding images front matter variable. Note that it has to be enclosed in brackets.
+images: ["/images/self_assessment.png"]
 author: "Lloyd Tripp"
 ---
 # Self-assessment
