@@ -7,6 +7,8 @@ categories: [Real_Estate]
 tags: [ChatGPT]
 toc: false
 featuredImage: "/images/self_assessment.png"
+# Add og:image by adding image front matter variable
+image: "/images/self_assessment.png"
 author: "Lloyd Tripp"
 ---
 # Self-assessment
