@@ -12,4 +12,8 @@ author: "Lloyd Tripp"
 # Self-assessment
 Before I begin to experiment with engineering prompts for specific tasks, let's have ChatGPT perform a self-assessment of its capabilities in the areas of Real Estate Analytics, Mortgages, and helping Real Estate Agents. After all, a good performance assessment of a human team member begins with a self-assessment.  
 
+I think the response is pretty compelling, but we need to verify its capabilities with specifically engineered prompts and chat sessions.  
+
+Follow along so you don't miss a thing!
+
 ![ChatGPT self-assessment](/images/ChatGPT_self_assessment.png)
