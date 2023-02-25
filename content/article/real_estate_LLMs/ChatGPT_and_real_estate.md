@@ -8,6 +8,8 @@ tags: [ChatGPT]
 toc: false
 featuredImage: "/images/neighborhood1.jpg"
 author: "Lloyd Tripp"
+# Add og:image 
+images: ["/images/neighborhood1.jpg"]
 ---
 # Focus on real estate and finance
 [OpenAI](https://OpenAI.com/)'s ChatGPT requires no introduction. A surge of activity has occurred in technical forums, mainstream news sites, and social media platforms. Rather than repeating the broad capabilities of ChatGPT, let's take a closer look at how AI tools such as ChatGPT may be utilized for Real Estate Analytics, Mortgages, and helping Real Estate Agents. Why real estate and finance? These are huge industries that impact the daily lives of just about everyone and often require a personal touch. Let's learn how Large Language Models (LLMs) such as ChatGPT  can benefit the professionals that work in these industries as well as the consumers. We'll also learn about some of the limitations of these tools so they are not used for tasks that they cannot currently perform.  
