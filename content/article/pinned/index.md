@@ -18,7 +18,7 @@ late 2022, there has been a renewed interest in Artificial Intelligence.
 
 ChatGPT is a text generator that can converse with humans on various topics, using natural language and common sense. It is based on GPT-3, one of the largest and most powerful language models ever created. ChatGPT can answer questions, tell jokes, write stories, and even generate code or lyrics.
 
-DALL-E 2 is an image generator that can create realistic and creative images based on text prompts from users. DALL-E 2 uses a diffusion model, which generates images by gradually refining them from noise. The images on this site were generated using a combination of DALL-E 2 and Stable Diffusion.
+DALL-E 2 is an image generator that can create realistic and creative images based on text prompts from users. DALL-E 2 uses a diffusion model, which generates images by gradually refining them from noise. The images on this site were generated using a combination of DALL-E 2, Stable Diffusion and Midjourney.
 
 However, along with great potential they also demonstrate the limitations of deep learning models. They also raise ethical and social questions about the impact of AI on human creativity, communication, and culture.
 
