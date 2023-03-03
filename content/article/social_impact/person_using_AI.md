@@ -1,6 +1,6 @@
 ---
 title: "AI Job Disruption"
-date: 2023-03-01T17:13:18-08:00
+date: 2023-03-01T17:13:18-09:00
 draft: false
 
 categories: [Social_Impact]
