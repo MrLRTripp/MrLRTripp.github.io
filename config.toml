@@ -1,6 +1,6 @@
 title = "Lloyd Tripp"
-#baseURL = "https://MrLRTripp.github.io/"
-baseURL = "https://mrlrtripp.com/"
+baseURL = "https://MrLRTripp.github.io/"
+#baseURL = "https://mrlrtripp.com/"
 
 # Option 1 (recommended): adding the theme as a Hugo module
 theme = "github.com/Lednerb/bilberry-hugo-theme/v3"
