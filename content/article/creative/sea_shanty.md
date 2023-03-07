@@ -1,7 +1,7 @@
 ---
 title: "Sea shanty with Real Estate Broker, Banker and Landlord"
 date: 2023-03-03T16:58:29-08:00
-draft: true
+draft: false
 
 categories: [Creative]
 tags: [ChatGPT, Bing, Real_Estate, Banker, Sea_Shanty]
