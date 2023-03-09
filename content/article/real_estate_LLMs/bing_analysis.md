@@ -11,7 +11,7 @@ author: "Lloyd Tripp"
 # Add og:image 
 images: ["/images/City_sunset.png"]
 ---
-# Sunset on the California coastal cities?
+# Sunset of the California coastal cities?
 One big advantage that the Bing chatbot has over the more well known ChatGPT is that it can search the internet for current information. ChatGPT is not connected to the internet and has limited knowledge past 2021. This is very likely to change as OpenAI determines the best way to get current information into ChatGPT in a responsible way that doesn't break their Reinforcement Learning from Human Feedback (RLHF) model that is able to generate such good responses.  
 
 Let's test the Bing chatbot to analyze housing trends in California for the year 2022. The response is quite good and generated in a matter of seconds. How long would it take you to search for the data and summarize it?  
