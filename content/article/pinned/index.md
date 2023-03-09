@@ -7,6 +7,7 @@ draft: false
 #featuredImage: "/images/future_city.jpg"
 # gallery: ["/images/future_city.jpg"] 
 resizeImages: true
+images: ["/images/future_city.png"]
 
 categories: ["Pinned"]
 tags: []
