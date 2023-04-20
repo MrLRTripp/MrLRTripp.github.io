@@ -41,8 +41,8 @@ disqusShortname = ""
 
   # Enable / Disable algolia search
   algolia_search    = true
-  algolia_appId     = "2FY4DHP8WM"
-  algolia_apiKey    = "4da1507629b76559d5e486da9d19e5d9"
+  algolia_appId     = "O6GYZ01B77"
+  algolia_apiKey    = "425c35a303f817e6aa0292975c656f58"
   algolia_indexName = "lloyd-tripp-blog"
   # Set this option to false if you want to search within all articles in all languages at once
   algolia_currentLanguageOnly = true
